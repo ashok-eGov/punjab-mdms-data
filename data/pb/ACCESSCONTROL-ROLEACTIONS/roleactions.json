@@ -15679,6 +15679,18 @@
       "actionid": 2209,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2053,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2053,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
