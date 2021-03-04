@@ -7,35 +7,35 @@
         {
           "documentType": "COURTORDER",
           "demandRevisionBasis": [
-            "COURTCASESETTLEMENT"
+            "COURT_CASE_SETTLEMENT"
           ],
           "required": true
         },
            {
           "documentType": "PASTBILLS",
           "demandRevisionBasis": [
-            "COURTCASESETTLEMENT"
+            "COURT_CASE_SETTLEMENT"
           ],
           "required": true
         },
         {
           "documentType": "IDENTITYPROOF",
           "demandRevisionBasis": [
-            "COURTCASESETTLEMENT"
+            "COURT_CASE_SETTLEMENT"
           ],
           "required": true
         },
         {
           "documentType": "ADDRESSPROOF",
           "demandRevisionBasis": [
-            "COURTCASESETTLEMENT"
+            "COURT_CASE_SETTLEMENT"
           ],
           "required": true
         },
         {
           "documentType": "SELFDECLARATION",
           "demandRevisionBasis": [
-            "COURTCASESETTLEMENT"
+            "COURT_CASE_SETTLEMENT"
           ],
           "required": true
         }
@@ -46,28 +46,28 @@
         {
           "documentType": "GOVTNOTIFICATION",
           "demandRevisionBasis": [
-            "ARREARSWRITEOFF"
+            "ARREAR_WRITE_OFF"
           ],
           "required": true
         },
         {
           "documentType": "PASTBILLS",
           "demandRevisionBasis": [
-            "ARREARSWRITEOFF"
+            "ARREAR_WRITE_OFF"
           ],
           "required": true
         },
         {
           "documentType": "IDENTITYPROOF",
           "demandRevisionBasis": [
-            "ARREARSWRITEOFF"
+            "ARREAR_WRITE_OFF"
           ],
           "required": true
         },
         {
           "documentType": "ADDRESSPROOF",
           "demandRevisionBasis": [
-            "ARREARSWRITEOFF"
+            "ARREAR_WRITE_OFF"
           ],
           "required": true
         }
@@ -78,28 +78,28 @@
         {
           "documentType": "OFFICENOTEORDER",
           "demandRevisionBasis": [
-            "DCBCORRECTION"
+            "DCB_CORRECTION"
           ],
           "required": true
         },
         {
           "documentType": "PASTBILLS",
           "demandRevisionBasis": [
-            "DCBCORRECTION"
+            "DCB_CORRECTION"
           ],
           "required": true
         },
         {
           "documentType": "IDENTITYPROOF",
           "demandRevisionBasis": [
-            "DCBCORRECTION"
+            "DCB_CORRECTION"
           ],
           "required": true
         },
         {
           "documentType": "ADDRESSPROOF",
           "demandRevisionBasis": [
-            "DCBCORRECTION"
+            "DCB_CORRECTION"
           ],
           "required": true
         }
@@ -110,28 +110,28 @@
         {
           "documentType": "GOVTNOTIFICATION",
           "demandRevisionBasis": [
-            "ONETIMESETTLEMENT"
+            "ONE_TIME_SETTLEMENT"
           ],
           "required": true
         },
         {
           "documentType": "PASTBILLS",
           "demandRevisionBasis": [
-            "ONETIMESETTLEMENT"
+            "ONE_TIME_SETTLEMENT"
           ],
           "required": true
         },
         {
           "documentType": "IDENTITYPROOF",
           "demandRevisionBasis": [
-            "ONETIMESETTLEMENT"
+            "ONE_TIME_SETTLEMENT"
           ],
           "required": true
         },
         {
           "documentType": "ADDRESSPROOF",
           "demandRevisionBasis": [
-            "ONETIMESETTLEMENT"
+            "ONE_TIME_SETTLEMENT"
           ],
           "required": true
         }
